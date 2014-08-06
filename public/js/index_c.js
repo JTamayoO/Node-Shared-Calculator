@@ -13,6 +13,5 @@ $('form').submit(function(){
 });
 
 socket.on('message', function(msg){
-	//$('#messages').html.slideUp();
 	$('#messages').html($('<ul class="display" id="messages">').text(msg));
 });

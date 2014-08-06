@@ -1,7 +1,23 @@
+body
+{
+	background-color: #1F2222;
+}
 button{
 	width: 45px;
 	border-style: none;
 	height: 30px;
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 2px;
+}
+
+.scien{
+	background-color: #b3b3b3;
+}
+
+#btn_eq{
+	background-color: #DC3B3B;
+	position: absolute;
+	height: 80px;
 }
 
 div.display{
@@ -12,6 +28,7 @@ ul.display{
 	float: right;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
+	color:#F8F8F8;
 }
 
 .c2{
