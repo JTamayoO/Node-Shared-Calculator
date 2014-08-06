@@ -1,0 +1,30 @@
+button{
+	width: 45px;
+	border-style: none;
+	height: 30px;
+}
+
+div.display{
+	border-width: 1px;
+}
+
+ul.display{
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+}
+
+.c2{
+	width:17%;
+}
+
+div.c2 button{
+	width: 100px;
+}
+
+
+.w320{
+	max-width: 430px;
+	border-style: solid;
+	border-width: 1px;
+}

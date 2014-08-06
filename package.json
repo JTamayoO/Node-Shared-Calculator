@@ -1,0 +1,14 @@
+{
+  "name": "SharedCalc",
+  "version": "0.0.1",
+  "description": "Shared Calculator using nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.2.0",
+    "socket.io": "1.0"
+  },
+  "author": "Juan-Torres",
+  "engines":{
+  	"node":"0.10.30"
+  }
+}
