@@ -9,17 +9,20 @@ button{
 	font-family: 'Open Sans', sans-serif;
 	border-radius: 2px;
 }
-
-.scien{
-	background-color: #b3b3b3;
+div.c2 button{
+	width: 100px;
 }
 
-#btn_eq{
-	background-color: #DC3B3B;
-	position: absolute;
-	height: 80px;
+.expression{
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	color:#F8F8F8;
+
 }
 
+#messages{
+	min-height: 50px;
+}
 div.display{
 	border-width: 1px;
 }
@@ -31,17 +34,17 @@ ul.display{
 	color:#F8F8F8;
 }
 
+.scien{
+	background-color: #b3b3b3;
+}
+
+#btn_eq{
+	background-color: #DC3B3B;
+	position: absolute;
+	height: 80px;
+}
+
 .c2{
 	width:17%;
 }
 
-div.c2 button{
-	width: 100px;
-}
-
-
-.w320{
-	max-width: 430px;
-	border-style: solid;
-	border-width: 1px;
-}
